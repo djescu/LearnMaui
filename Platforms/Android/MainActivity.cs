@@ -1,6 +1,7 @@
-﻿using Android.App;
+﻿// Copyright © 2024 David Escudero. All rights reserved.
+
+using Android.App;
 using Android.Content.PM;
-using Android.OS;
 
 namespace LearnMaui
 {

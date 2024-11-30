@@ -1,4 +1,4 @@
-﻿using Microsoft.UI.Xaml;
+﻿// Copyright © 2024 David Escudero. All rights reserved.
 
 // To learn more about WinUI, the WinUI project structure,
 // and more about our project templates, see: http://aka.ms/winui-project-info.

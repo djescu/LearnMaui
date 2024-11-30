@@ -1,0 +1,9 @@
+
+# All files
+[*]
+indent_style = space
+file_header_template = Copyright © 2024 David Escudero. All rights reserved.
+
+# Xml files
+[*.xml]
+indent_size = 2

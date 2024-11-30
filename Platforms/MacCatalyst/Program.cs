@@ -1,4 +1,5 @@
-﻿using ObjCRuntime;
+﻿// Copyright © 2024 David Escudero. All rights reserved.
+
 using UIKit;
 
 namespace LearnMaui
