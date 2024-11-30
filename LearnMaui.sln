@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35521.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnMaui", "LearnMaui.csproj", "{F3632E78-C98F-45CF-BF00-330CB6F97BF0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Source code", "Source code", "{E480CBF5-19FD-44CE-A792-653E9DFED7D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution files", "Solution files", "{286BF7F9-513A-4E6F-96A5-DEF44A6988A2}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3632E78-C98F-45CF-BF00-330CB6F97BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3632E78-C98F-45CF-BF00-330CB6F97BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3632E78-C98F-45CF-BF00-330CB6F97BF0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F3632E78-C98F-45CF-BF00-330CB6F97BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3632E78-C98F-45CF-BF00-330CB6F97BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3632E78-C98F-45CF-BF00-330CB6F97BF0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3632E78-C98F-45CF-BF00-330CB6F97BF0} = {E480CBF5-19FD-44CE-A792-653E9DFED7D1}
+	EndGlobalSection
+EndGlobal
