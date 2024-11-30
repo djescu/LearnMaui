@@ -62,4 +62,24 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="8.0.1" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <EditorConfigFiles Remove="D:\Development\David\LearnMaui\.editorconfig" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="D:\Development\David\LearnMaui\.editorconfig" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Views\ProductPage.xaml.cs">
+	    <DependentUpon>ProductPage.xaml</DependentUpon>
+	  </Compile>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <MauiXaml Update="Views\ProductPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
 </Project>
